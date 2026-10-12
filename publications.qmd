@@ -1,0 +1,29 @@
+---
+title: "Publications"
+---
+
+## Peer reviewed
+
+**Resource-use plasticity governs the causal relationship between traits and community structure in model microbial communities**  
+Brendon McGuinness, Stephanie C. Weber & Frédéric Guichard  
+*Proceedings of the National Academy of Sciences* **122**(29), e2419275122 (2025)
+
+**Connectivity mediates the spatial ecological impacts of a glyphosate-based herbicide in experimental metaecosystems**  
+J. O. Negrín Dastis, Brendon McGuinness, C. P. Tadiri, V. Yargeau & A. Gonzalez  
+*Oecologia* **205**(3), 709–723 (2024)
+
+**Single-molecule visualization of the effects of ionic strength and crowding on structure-mediated interactions in supercoiled DNA molecules**  
+S. Scott, C. Shaheen, Brendon McGuinness, K. Metera, F. Kouzine, D. Levens, *et al.* & S. Leslie  
+*Nucleic Acids Research* **47**(12), 6360–6368 (2019)
+
+## In revision
+
+**Resource-use plasticity modulates the resource-diversity relationship in model microbial communities**  
+Brendon McGuinness, Stephanie C. Weber & Frédéric Guichard  
+*Ecology Letters* · in revision
+
+## Preprints
+
+**The winding road to coexistence: Interdependence of stabilizing and equalizing mechanisms in competing *E. coli* with targeted nutrient transporter gene deletions**  
+Brendon McGuinness, Frédéric Guichard & Stephanie C. Weber  
+bioRxiv · 2026

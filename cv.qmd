@@ -1,0 +1,13 @@
+---
+title: "CV"
+---
+
+::: {.cv-toolbar}
+[Download full CV](files/CV2026_BM_updated_Oct2026.pdf){.btn .btn-outline-dark}
+:::
+
+<iframe
+  class="cv-pdf-preview"
+  src="files/CV2026_BM_updated_Oct2026.pdf#view=FitH"
+  title="Brendon McGuinness CV, October 2026">
+</iframe>

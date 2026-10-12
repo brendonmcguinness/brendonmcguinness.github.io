@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Brendon McGuinness"
+  site-url: "https://brendonmcguinness.github.io"
+  description: "Quantitative ecology, eco-evolutionary dynamics, microbial community assembly, and biodiversity."
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/brendonmcguinness
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:bm4224@nyu.edu
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Brendon McGuinness"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

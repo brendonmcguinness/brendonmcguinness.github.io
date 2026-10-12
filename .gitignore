@@ -1,0 +1,7 @@
+/.quarto/
+/_site/
+/tmp/
+.DS_Store
+files/CV2026_BM_updated_Aug2026.docx
+
+**/*.quarto_ipynb
