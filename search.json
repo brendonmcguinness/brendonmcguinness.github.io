@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download full CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brendon McGuinness",
+    "section": "",
+    "text": "Brendon McGuinness\nPostdoctoral Associate\nDepartment of Biology · New York University\nI am a quantitative ecologist studying how processes from cells to ecosystems shape ecological communities and biodiversity. I focus on how rapid trait change and environmental conditions influence species coexistence and community assembly.\nI am currently a postdoctoral associate in the Pascual Lab at New York University, where I develop computational models of host–pathogen eco-evolutionary dynamics. During my PhD at McGill University, I was advised by Frédéric Guichard and Steph Weber, and studied how phenotypic plasticity and metabolic constraints shape community assembly and coexistence in microbial communities.\nGoogle Scholar · GitHub · ORCID · Email"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study how ecological interactions emerge from trait-environment matching, and how those interactions shape coexistence, community assembly, and biodiversity. My work combines mathematical models, computation, microbial experiments, and (in the past) some quantitative imaging."
+  },
+  {
+    "objectID": "research.html#eco-evolutionary-dynamics",
+    "href": "research.html#eco-evolutionary-dynamics",
+    "title": "Research",
+    "section": "Eco-evolutionary dynamics",
+    "text": "Eco-evolutionary dynamics\n\n\nAs a postdoctoral associate in the Pascual Lab at New York University, I study how ecological competition and rapid evolution contribute to strain structure and diversity in host–pathogen systems. Pathogen strains compete indirectly through cross-immunity: infection with one strain can protect hosts against similar strains, reducing the hosts available to them and giving more antigenically novel strains an advantage. This resembles consumer–resource competition, except that the resource landscape is continually altered by immune memory.\nI use mathematical and computational models to examine how mutation and recombination generate new combinations—and numbers—of antigenic traits. I ask how competition organizes strains across this discrete trait space, when new traits create ecological opportunities, and how transmission or interventions alter pathogen diversity. This work is motivated by the hyperdiverse var genes of Plasmodium falciparum, which enable malaria parasites to vary the proteins displayed on infected red blood cells and evade host immunity.\n\n\n\nAssembly of phenotypes in a host–pathogen model with cross-immunity and mutation."
+  },
+  {
+    "objectID": "research.html#how-resource-use-plasticity-and-trait-space-geometry-affect-community-structure-and-diversity",
+    "href": "research.html#how-resource-use-plasticity-and-trait-space-geometry-affect-community-structure-and-diversity",
+    "title": "Research",
+    "section": "How resource-use plasticity and trait-space geometry affect community structure and diversity",
+    "text": "How resource-use plasticity and trait-space geometry affect community structure and diversity\n\n\nMy PhD work focused on how rapid, plastic changes in traits affect ecological communities. Using consumer–resource models inspired by diauxic shifts, in which microorganisms switch between carbon sources, I studied feedbacks between species abundances and their resource-use traits. I found that the rate of plasticity controls how long transient competitive differences persist during community assembly. These transient differences can leave lasting effects on relative abundances after species converge toward ecological equivalence via emergent neutrality. This shows that niche-based sorting and ecological equivalence are not competing explanations: they can describe different stages of the same feedback-driven process, allowing neutral-like dynamics to coexist with strong relationships between traits and abundance.\n\n\n\nPlastic shifts in resource-use traits during community assembly.\n\n\n\n\n\nBuilding on this framework, I asked how these feedbacks change as the number of resources—the dimensionality of the environment—increases. Classical niche theory predicts that more resources should support more species, yet microbial communities show positive, flat, and even negative resource–diversity relationships. I found that higher-dimensional environments can reduce variation among resource-use traits and intensify transient ecological sorting, while faster plasticity shortens these transients and promotes ecological equivalence. The balance among environmental dimensionality, resource-use trade-offs, and plasticity explains why diversity may increase, level off, or decline as resources are added, providing a common framework for understanding these contrasting patterns.\n\n\n\nExpanding resource-use trait space as resources are added.\n\n\n\n\nResource-use plasticity governs the causal relationship between traits and community structure in model microbial communities\nProceedings of the National Academy of Sciences · 2025\n\n\nTrait-space geometry and plasticity shape resource-diversity relationships in microbial communities\nEcology Letters · in revision"
+  },
+  {
+    "objectID": "research.html#coexistence-theory-from-genome-scale-models-to-experiments",
+    "href": "research.html#coexistence-theory-from-genome-scale-models-to-experiments",
+    "title": "Research",
+    "section": "Coexistence theory from genome-scale models to experiments",
+    "text": "Coexistence theory from genome-scale models to experiments\n\n\nTo connect community-level theory to processes inside cells, I integrated genome-scale metabolic models and dynamic flux balance analysis with Modern Coexistence Theory, which explains coexistence through the balance between niche and fitness differences. I found that these differences cannot change independently because both arise from the same resource-uptake traits and are constrained by intracellular metabolism. As traits or resource conditions change, communities may pass through exclusion before developing enough niche separation to coexist, with greater differences in resource quality requiring greater ecological separation. I tested these predictions using E. coli strains with targeted carbon-transporter deletions in microcosm experiments and showed that manipulating either consumer traits or the balance of supplied resources can produce stable coexistence. This work connects cellular metabolism to community-level biodiversity and provides a framework for predicting and engineering microbial communities.\n\n\n\nInterdependence of niche and fitness differences due to metabolic constraints on resource uptake traits.\n\n\n\n\nA winding road to coexistence: Interdependence of niche and fitness differences in E. coli with targeted resource uptake gene deletions\nbioRxiv · 2026"
+  },
+  {
+    "objectID": "research.html#using-image-analysis-to-study-biology-across-scales",
+    "href": "research.html#using-image-analysis-to-study-biology-across-scales",
+    "title": "Research",
+    "section": "Using image analysis to study biology across scales",
+    "text": "Using image analysis to study biology across scales\n\n\nDuring various undergraduate research projects as well as PhD rotation projects, I used quantitative microscopy and computational image analysis to answer biological questions across different levels of organization. I developed tools for analyzing single-molecule microscopy data to quantify interactions in supercoiled DNA. I also applied machine-learning methods to FlowCam images to identify phytoplankton species and track changes in community composition across mesocosms connected by directional flow to form experimental metaecosystems.\n\n\n\nComputational detection of DNA-binding events between an oligonucleotide and a supercoiled plasmid.\n\n\n\n\nSingle-molecule visualization of the effects of ionic strength and crowding on structure-mediated interactions in supercoiled DNA molecules\nNucleic Acids Research · 2019\n\n\nConnectivity mediates the spatial ecological impacts of a glyphosate-based herbicide in experimental metaecosystems\nOecologia · 2024"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Resource-use plasticity governs the causal relationship between traits and community structure in model microbial communities\nBrendon McGuinness, Stephanie C. Weber & Frédéric Guichard\nProceedings of the National Academy of Sciences 122(29), e2419275122 (2025)\nConnectivity mediates the spatial ecological impacts of a glyphosate-based herbicide in experimental metaecosystems\nJ. O. Negrín Dastis, Brendon McGuinness, C. P. Tadiri, V. Yargeau & A. Gonzalez\nOecologia 205(3), 709–723 (2024)\nSingle-molecule visualization of the effects of ionic strength and crowding on structure-mediated interactions in supercoiled DNA molecules\nS. Scott, C. Shaheen, Brendon McGuinness, K. Metera, F. Kouzine, D. Levens, et al. & S. Leslie\nNucleic Acids Research 47(12), 6360–6368 (2019)"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed",
+    "href": "publications.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Resource-use plasticity governs the causal relationship between traits and community structure in model microbial communities\nBrendon McGuinness, Stephanie C. Weber & Frédéric Guichard\nProceedings of the National Academy of Sciences 122(29), e2419275122 (2025)\nConnectivity mediates the spatial ecological impacts of a glyphosate-based herbicide in experimental metaecosystems\nJ. O. Negrín Dastis, Brendon McGuinness, C. P. Tadiri, V. Yargeau & A. Gonzalez\nOecologia 205(3), 709–723 (2024)\nSingle-molecule visualization of the effects of ionic strength and crowding on structure-mediated interactions in supercoiled DNA molecules\nS. Scott, C. Shaheen, Brendon McGuinness, K. Metera, F. Kouzine, D. Levens, et al. & S. Leslie\nNucleic Acids Research 47(12), 6360–6368 (2019)"
+  },
+  {
+    "objectID": "publications.html#in-revision",
+    "href": "publications.html#in-revision",
+    "title": "Publications",
+    "section": "In revision",
+    "text": "In revision\nResource-use plasticity modulates the resource-diversity relationship in model microbial communities\nBrendon McGuinness, Stephanie C. Weber & Frédéric Guichard\nEcology Letters · in revision"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\nThe winding road to coexistence: Interdependence of stabilizing and equalizing mechanisms in competing E. coli with targeted nutrient transporter gene deletions\nBrendon McGuinness, Frédéric Guichard & Stephanie C. Weber\nbioRxiv · 2026"
+  }
+]
