@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - googleed6b917669be7916.html
 
 website:
   title: "Brendon McGuinness"
